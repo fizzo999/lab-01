@@ -82,6 +82,7 @@ header {
 
   header {
     background-color: rgba(160, 158, 95, 0.926);
+    height: 100px;
   }
 
   #b {
