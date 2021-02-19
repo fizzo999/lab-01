@@ -1,0 +1,62 @@
+body {
+  color: white;
+}
+
+header {
+  background-color: rgba(95, 134, 160, 0.926);
+}
+
+header, #a, #b, #c, #d, #e, #f, #g, #h, #i {
+  border: 2px solid black;
+}
+
+#b {
+  background-color: rgba(95, 103, 160, 0.926);
+}
+
+#c {
+  background-color: rgba(95, 72, 160, 0.926);
+}
+
+#d {
+  background-color: rgba(95, 41, 160, 0.926);
+}
+
+#e {
+  background-color: rgba(65, 12, 160, 0.926); 
+}
+
+#f {
+  background-color: rgba(45, 12, 160, 0.926); 
+}
+
+#g {
+  background-color: rgba(25, 32, 160, 0.926); 
+}
+
+#h {
+  background-color: rgba(05, 62, 160, 0.926); 
+}
+
+#i {
+  background-color: rgba(95, 134, 160, 0.926);
+}
+
+@media (min-width: 768px) {
+  header {
+    background-color: rgba(160, 158, 95, 0.926);
+  }
+  #b {
+    background-color: rgb(220, 173, 20);
+  }
+  #c {
+    background-color: rgba(100, 89, 4, 0.741);
+  }
+
+  #d {
+    background-color: rgba(192, 176, 54, 0.926);
+  }
+  #i {
+    background-color: rgba(160, 158, 95, 0.926);
+  }
+}
